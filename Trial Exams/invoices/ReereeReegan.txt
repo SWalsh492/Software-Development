@@ -1,0 +1,8 @@
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-5006
+NAME: Reeree Reegan
+STAY DURATION: 6 nights
+
+COST: EUR 70.0

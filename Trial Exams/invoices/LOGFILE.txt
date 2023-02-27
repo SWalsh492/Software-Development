@@ -1,0 +1,10 @@
+LOG FILE RECORD OF INVOICES PROCESSED:
+Invoice number JH-7726 - Customer Name: Shane Walsh - TOTAL Charge: 104.0
+Invoice number JH-8761 - Customer Name: Paddy Johnson - TOTAL Charge: 104.0
+
+TOTAL OF ALL STAYS: 	 104.0
+LOG FILE RECORD OF INVOICES PROCESSED:
+Invoice number JH-6781 - Customer Name: Shane Walsh - TOTAL Charge: 93.0
+Invoice number JH-5006 - Customer Name: Reeree Reegan - TOTAL Charge: 93.0
+
+TOTAL OF ALL STAYS: 	 186.0

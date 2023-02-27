@@ -1,0 +1,8 @@
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-8112
+NAME: Paddy McGee
+STAY DURATION: 7 nights
+
+COST: EUR 70.0

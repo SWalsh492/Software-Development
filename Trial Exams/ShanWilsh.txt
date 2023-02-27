@@ -1,0 +1,8 @@
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-9501
+NAME: Shan Wilsh
+STAY DURATION: 2 nights
+
+COST: EUR 180.0

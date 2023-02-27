@@ -1,0 +1,42 @@
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-6385
+NAME: Shane Walsh
+STAY DURATION: 2 nights
+
+COST: EUR 180.0
+
+---------- EXTRAS ---------- 
+EXTRAS: 
+EXTRAS 	56.0
+TOTAL INC> EXTRAS: 	236.0
+--------------------
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-7726
+NAME: Shane Walsh
+STAY DURATION: 5 nights
+
+COST: EUR 70.0
+
+---------- EXTRAS ---------- 
+EXTRAS: 
+EXTRAS 	34.0
+TOTAL INC> EXTRAS: 	104.0
+--------------------
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-6781
+NAME: Shane Walsh
+STAY DURATION: 5 nights
+
+COST: EUR 70.0
+
+---------- EXTRAS ---------- 
+EXTRAS: 
+EXTRAS 	23.0
+TOTAL INC> EXTRAS: 	93.0
+--------------------

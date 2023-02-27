@@ -1,0 +1,8 @@
+---------- THE JAVA HOTEL ----------
+---------- CUSTOMER INVOICE ----------
+
+INVOICE NUMBER: JH-8761
+NAME: Paddy Johnson
+STAY DURATION: 5 nights
+
+COST: EUR 70.0
