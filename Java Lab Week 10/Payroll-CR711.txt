@@ -1,0 +1,4 @@
+===================
+EMPLOYEE: Shan Wilsh
+WAGE: 250 dollars
+===================

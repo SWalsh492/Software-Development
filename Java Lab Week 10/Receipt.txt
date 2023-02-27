@@ -1,0 +1,7 @@
+============================
+PURCHASE: Coke
+PRICE: 1.00 dollar
+Quantity: 4
+Total Cost: 4.0
+============================
+

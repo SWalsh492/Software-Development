@@ -1,0 +1,40 @@
+===================
+EMPLOYEE: Shane
+WAGE: 250 dollars
+===================
+===================
+EMPLOYEE: ggffgf
+WAGE: 250 dollars
+===================
+===================
+EMPLOYEE: Shabfsdg
+WAGE: 125 dollars
+===================
+===================
+EMPLOYEE: dsfdsffds
+WAGE: 250 dollars
+===================
+===================
+EMPLOYEE: dfdsffd
+WAGE: 250 dollars
+===================
+===================
+EMPLOYEE: dfdsfdsfdsfd
+WAGE: 250 dollars
+===================
+===================
+EMPLOYEE: Shan Wilsh
+WAGE: 250 dollars
+===================
+===================
+EMPLOYEE: Owen Owenson
+WAGE: 125 dollars
+===================
+===================
+EMPLOYEE: Freddy kody
+WAGE: 125 dollars
+===================
+===================
+EMPLOYEE: Anothe rmcgee
+WAGE: 250 dollars
+===================
